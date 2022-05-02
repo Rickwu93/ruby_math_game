@@ -33,13 +33,3 @@ end
 puts "------ Game Over -------"
 puts "Good Bye!"
 
-
-
-
-
-
-
-#puts player1.name
-#puts player2.lives
-#player2.lose_life
-#puts player2.lives
